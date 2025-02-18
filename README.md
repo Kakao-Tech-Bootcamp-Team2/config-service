@@ -1,4 +1,4 @@
-# Config Service
+# Zipbob Config Service
 
 ## 개요 🚀
 
